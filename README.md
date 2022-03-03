@@ -1,2 +1,2 @@
-# OOP-PHP-PDS
+# OOP Basic
 2nd Week
